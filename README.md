@@ -91,7 +91,7 @@ Observe RDP traffic via filtering TCP Port 3389.
 <img src="https://i.imgur.com/WKXVThb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Observe Observe Ubuntu commands.
+Observe Ubuntu commands.
 </p>
 <br />
 
