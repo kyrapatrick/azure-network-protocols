@@ -23,7 +23,7 @@ Observe various network traffic to and from Azure Virtual Machines with Wireshar
 
 <h2>High-Level Steps</h2>
 
-- Create Azure virtual machines:Windows 10; Ubuntu 
+- Create Azure virtual machines: Windows 10; Ubuntu 
 - Understand Firewalls via Network Security Groups
 - Install protocol analyzer Wireshark
 - Work with various Ports & Protocols
